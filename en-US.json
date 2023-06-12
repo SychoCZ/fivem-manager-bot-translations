@@ -1,6 +1,6 @@
 {
-    "language": "English",
-    "code": "en-US",
+    "language": "Czech",
+    "code": "cs-CS",
     "bot.permission.denied": "You don't have permission to use this command.",
     "general.year": " year",
     "general.month": " month",
